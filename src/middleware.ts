@@ -20,7 +20,7 @@ const SECURITY_HEADERS: Record<string, string> = {
     "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
     "img-src 'self' data: https://www.googletagmanager.com https://www.google-analytics.com https://maps.googleapis.com https://maps.gstatic.com https://purecatamphetamine.github.io https://i.pravatar.cc",
     "font-src 'self' https://fonts.gstatic.com",
-    "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://maps.googleapis.com https://cloudflareinsights.com",
+    "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://maps.googleapis.com https://cloudflareinsights.com https://api.web3forms.com",
     "frame-src https://www.google.com https://www.googletagmanager.com https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com https://www.loom.com",
     "object-src 'none'",
     "base-uri 'self'",
