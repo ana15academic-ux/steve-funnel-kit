@@ -55,7 +55,7 @@ export interface SiteConfig {
 const siteConfig: SiteConfig = {
   name: 'Damn Good Funnels',
   description: 'Simple landing pages that actually convert. Built on a proper design system so AI can\'t produce slop.',
-  url: SITE_URL || 'https://damngoodfunnels.com',
+  url: SITE_URL || 'https://demo.limendo.com',
   ogImage: '/og-default.png',
   author: 'Steve Butler',
   email: 'hello@damngoodfunnels.com',

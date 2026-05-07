@@ -12,9 +12,8 @@ const contactSchema = z.object({
 });
 
 const ALLOWED_ORIGINS = [
-  // TODO: Add your production domain(s)
-  // 'https://yourdomain.com',
-  // 'https://www.yourdomain.com',
+  'https://demo.limendo.com',
+  'https://www.demo.limendo.com',
 ];
 
 const MAX_REQUESTS_PER_MINUTE = 5;

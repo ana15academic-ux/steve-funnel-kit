@@ -34,9 +34,8 @@ function getClientIp(request: Request): string {
 }
 
 const ALLOWED_ORIGINS = [
-  // TODO: Add your production domain(s)
-  // 'https://yourdomain.com',
-  // 'https://www.yourdomain.com',
+  'https://demo.limendo.com',
+  'https://www.demo.limendo.com',
 ];
 
 function getCorsOrigin(request: Request): string {
