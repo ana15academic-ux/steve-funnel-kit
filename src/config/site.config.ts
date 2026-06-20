@@ -53,13 +53,13 @@ export interface SiteConfig {
 }
 
 const siteConfig: SiteConfig = {
-  name: 'Damn Good Funnels',
-  description: 'Simple landing pages that actually convert. Built on a proper design system so AI can\'t produce slop.',
-  url: SITE_URL || 'https://demo.limendo.com',
+  name: 'Technical Writing Uncensored',
+  description: 'Empowering technical writers with AI workflows and strong LinkedIn positioning.',
+  url: SITE_URL || 'https://diana-cheatsheet.pages.dev/diana',
   ogImage: '/og-default.png',
-  author: 'Steve Butler',
-  email: 'hello@damngoodfunnels.com',
-  phoneCountryCode: 'AU',
+  author: 'Diana Payton',
+  email: 'dfhauer@gmail.com',
+  phoneCountryCode: 'US',
   socialLinks: [],
   verification: {
     google: GOOGLE_SITE_VERIFICATION,
@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
   },
   branding: {
     logo: {
-      alt: 'Damn Good Funnels',
+      alt: 'Technical Writing Uncensored',
     },
     favicon: {
       svg: '/favicon.svg',
